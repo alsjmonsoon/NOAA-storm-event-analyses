@@ -1,5 +1,6 @@
 ## NOAA-storm-event-analyses
-Reproducible Research (from Data science course on Coursera) homework assignment project two
+Reproducible Research (from Data science course on Coursera) homework assignment project two. Below are the requirement from the instructor Dr. Roger Peng for the assignment. See Coursera for more details
+-----------------------------------------------------------------------------------------
 
 ###Introduction
 
@@ -11,7 +12,7 @@ Data
 
 The data for this assignment come in the form of a comma-separated-value file compressed via the bzip2 algorithm to reduce its size. You can download the file from the course web site:
 
-###[Storm Data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2]
+###[Storm Data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2)
 There is also some documentation of the database available. Here you will find how some of the variables are constructed/defined.
 
 National Weather Service [Storm Data Documentation] (https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf)
