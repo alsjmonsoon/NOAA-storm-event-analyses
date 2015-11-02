@@ -1,6 +1,7 @@
-## NOAA-storm-event-analyses  
+## NOAA-storm-event-analyses
 
-Reproducible Research (from Data science course on Coursera) homework project No. two. Below are the detailed description of the project and the requirements from the instructor Dr. Roger Peng. See Coursera for more details,
+----------------------------------------------------------------------------------------
+#####Reproducible Research (from Data science course on Coursera) homework project No. two. Below are the detailed description of the project and the requirements from the instructor Dr. Roger Peng. See Coursera for more details,
 -----------------------------------------------------------------------------------------
 
 ###Introduction
