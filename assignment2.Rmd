@@ -307,6 +307,6 @@ ggplot(ecoLong,aes(x=EVTYPE,y=value/1e+9,fill=variable))+
         theme(plot.title = element_text(size = rel(1.1),face="bold"))
 ```
 
-**Conclusion: From my data analysis, it is clear that the top five most harmful storm events for US.economy are: hurriance (typhoon),storm surge, flood, tornado,heavy snow. It is also clear that drought caused the most crop damage during 1996-2011. Please note, I did not count for the economical infliation during 1996-2011 when considering the property and crop damage, therefore this report may not realistically present the real economic damage. **
+**Conclusion: From my data analysis, it is clear that the top five most harmful storm events for US.economy are: hurriance (typhoon),storm surge, flood, tornado,heavy snow. It is also clear that drought caused the most crop damage during 1996-2011. Please note, I did not count for the economical infliation during 1996-2011 when considering the property and crop damage, therefore this report may not realistically present the real economic damage.**
 
 ~End of the report~
